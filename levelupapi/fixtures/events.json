@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Race through the game of life and see who can accumulate the most money!",
+            "date": "2000-11-14",
+            "time": "7:00",
+            "organizer": 1,
+            "gamers": [1]
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "description": "Who can acquire the most assets?",
+            "date": "2000-11-19",
+            "time": "6:00",
+            "organizer": 1,
+            "gamers": [1]
+        }
+    }
+]
